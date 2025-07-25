@@ -19,7 +19,6 @@ The dataset used is the **[Brain Tumor Segmentation dataset](https://www.kaggle.
 
 - Format: PNG images.
 - Each MRI image has a corresponding segmentation mask.
-- Dataset Source: [Kaggle Dataset](https://www.kaggle.com/datasets/nikhilroxtomar/brain-tumor-segmentation)
 
 ## Technologies Used
 
